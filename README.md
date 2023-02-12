@@ -42,9 +42,9 @@ List the ready features here:
     - The service uses information about the student's timeschedule, sportsection's schedule, available places and student's wishes
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/53062219/218333148-25c085ab-7273-4782-80e7-5208a1624cee.png)
-![image](https://user-images.githubusercontent.com/53062219/218333156-46643e9d-4c5f-4c0a-ab1a-5978c5188db0.png)
-![image](https://user-images.githubusercontent.com/53062219/218333163-e013fd85-77ef-4233-9d89-f7b4f8591581.png)
+<img src="https://user-images.githubusercontent.com/53062219/218333148-25c085ab-7273-4782-80e7-5208a1624cee.png" alt="mainPage" title="mainPage" height="450" />
+<img src="https://user-images.githubusercontent.com/53062219/218333156-46643e9d-4c5f-4c0a-ab1a-5978c5188db0.png" alt="sqlPage" title="sqlPage" height="450" />
+<img src="https://user-images.githubusercontent.com/53062219/218333163-e013fd85-77ef-4233-9d89-f7b4f8591581.png" alt="statPage" title="statPage" height="450" />
 
 
 ## Setup
